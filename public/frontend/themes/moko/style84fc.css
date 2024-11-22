@@ -1,0 +1,73 @@
+/*
+ * Theme Name: Moko
+ * Author: Noor Tech
+ * Author URI: https://themeforest.net/user/noor_tech/
+ * Theme URI: https://themerange.net/wp/moko/
+ * Description: Moko | SEO & Digital Marketing WordPress Theme is a modern & fully responsive theme which has been designed for Online Marketing, SEO Agency, Digital Marketing, Social media marketing agency company, Social Media website, etc.. Moko comes with many built-in pages like service pages, portfolio pages, case study pages about us and pricing pages.
+ * Version: 3.3
+ * License: This theme or plugin is comprised of two parts. (1) the PHP code and integrated HTML are licensed under the General Public License (GPL). You will find a copy of the GPL in the same directory as this text file. (2) All other parts, but not limited to the CSS code, images, and design are licensed according to the license purchased from Envato.  Read more about licensing here: http://themeforest.net/licenses
+ * License URI: license.txt
+ * Tags: blog, two-columns, left-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+ * Text Domain: moko
+ * Tested up to: 6.2
+ * Requires PHP: 8.00
+*/
+.wp-caption {
+	margin-bottom: 2px;
+}
+
+.wp-caption-text {
+	margin-bottom: 5px;
+}
+
+.screen-reader-text {
+	margin-bottom: 12px;
+}
+
+.gallery-caption {
+	margin-bottom: 2px;
+}
+
+.bypostauthor {
+	margin-bottom: 2px;
+}
+
+.alignleft {
+	float: left;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	max-width: 100%;
+	width: unset !important;
+}
+
+.alignright {
+	float: right !important;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	max-width: 100%;
+	width: unset !important;
+}
+
+.aligncenter {
+	display: block;
+	margin: 0 auto 20px;
+}
+
+.col-md-4 .funfact-meta > i {
+	right: 27px;
+}
+
+.mycustom-pricing {
+	background-color: #090909 !important;
+}
+
+.on-hover {
+	display: none;
+	animation: fadeOut 0.5s;
+}
+
+.hver:hover .on-hover {
+	display: block;
+	animation: fadeIn 0.5s;
+}
+
